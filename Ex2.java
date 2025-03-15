@@ -6,12 +6,10 @@ public static void main(String[] args){
           System.out.println(i);
         }
     }
-  
 }
 
 /*
 D:\E-Commerce>javac Ex2.java
-
 D:\E-Commerce>java Ex2
 1
 2
